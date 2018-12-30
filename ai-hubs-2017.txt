@@ -1,0 +1,16 @@
+2017 Top AI/ML Hubs 
+
+1) San Francisco Bay Area
+2) New York — Boston
+3) London
+4) Montréal
+5) Toronto
+6) Bangalore
+7) Berlin
+8) Beijing
+9) Shenzhen
+10) Tel Aviv
+
+https://medium.com/syncedreview/2017-in-review-10-leading-ai-hubs-e6f4d8a247ee
+
+$$('h3').slice(0,10).map(function(i, x) { return  `${++x}) ${i.innerText}`; }).join('\n')
